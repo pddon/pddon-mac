@@ -9,9 +9,10 @@ PDDON画图不仅支持在线画图，还为Windows/Mac等系统用户提供了�
 关于开源，目前是有规划将一部分画图组件开源，方便有开发能力的朋友二次开发，不过目前由于精力有限，还有从技术安全的角度出发，还需要准备一段时间，如果有意向深度合作，可以提前联系我们哦。
 
 * 在线画图地址: https://pddon.com
-* Mac桌面客户端安装包下载地址: https://github.com/pddon/pddon-mac
-* Mac桌面客户端安装包阿里云盘下载地址: https://www.aliyundrive.com/s/FwtWVc5rVLn
-* Windows桌面客户端安装包下载地址: https://github.com/pddon/pddon-win
+* Mac桌面客户端安装包下载地址: https://github.com/pddon/pddon-mac/releases/latest
+* Mac桌面客户端安装包阿里云盘下载地址: https://www.aliyundrive.com/s/bjatcSHPaK4
+* Windows桌面客户端安装包下载地址: https://github.com/pddon/pddon-win/releases/latest
+* Linux桌面客户端安装包下载地址: https://github.com/pddon/pddon-linux/releases/latest
 
 > 如果觉得不错，可以点一个star哦，蟹蟹啦(#^.^#)  
 
